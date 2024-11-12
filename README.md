@@ -1,16 +1,63 @@
-## Hi there 👋
+## 🦊 Bruno Souza Belli
 
-<!--
-**BrunoSBelli/BrunoSBelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Engenharia de Computação`**
 
-Here are some ideas to get you started:
+Estudante do Instituto Federal Catarinense - SBS, cursando Engenharia de Computação há 4 anos.
+Durante quase 2 anos participei diretamente de uma operação em uma empresa de Corretagem de Seguros parceira
+do Bradesco S/A de Curitiba-PR. Ao qual ainda faço parte de sua Sociedade auxiliando em algumas pendências,
+principalmente na parte de Suporte Operacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👾 Linguagens e Tecnologias
+
+<img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+align = "left"
+title = "Java"
+width = "30px"
+style = "padding-right: 10px;"
+/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+align = "left"
+title = "HTML"
+width = "30px"
+style = "padding-right: 10px;"
+/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+align = "left"
+title = "CSS"
+width = "30px"
+style = "padding-right: 10px;" 
+/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+align = "left"
+title = "PHP"
+width = "30px"
+style = "padding-right: 10px;" 
+/>
+
+</br>
+</br>          
+          
+### 🤖 Estatisticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=brunosbelli&show_icons=true&theme=tokyonight&locale=pt-br" 
+align = "left"
+alt = "GitHub Stats"
+height = "200"
+style = "padding-right: 10px;" 
+/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&theme=tokyonight&custom_title=Tecnologias&layout=compact" 
+align = "left"
+alt = "GitHub Stats"
+height = "200"
+style = "padding-right: 100px;" 
+/>
+
+ 
