@@ -49,7 +49,7 @@ style = "padding-right: 10px;"
 <img src="https://github-readme-stats.vercel.app/api?username=brunosbelli&show_icons=true&theme=tokyonight&locale=pt-br" 
 align = "left"
 alt = "GitHub Stats"
-height = "200"
+height = "150"
 style = "padding-right: 10px;" 
 />
 
