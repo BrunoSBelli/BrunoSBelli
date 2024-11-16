@@ -45,6 +45,7 @@ style = "padding-right: 10px;"
 </br>          
           
 ### 🤖 Estatisticas
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=brunosbelli&show_icons=true&theme=tokyonight&locale=pt-br" 
 align = "left"
@@ -58,5 +59,8 @@ align = "left"
 alt = "GitHub Stats"
 height = "150"
 />
+          
+</p>
+
 
  
