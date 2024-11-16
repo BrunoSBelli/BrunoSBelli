@@ -5,7 +5,7 @@
 Estudante do Instituto Federal Catarinense - SBS, cursando Engenharia de Computação há 4 anos.
 Durante quase 2 anos participei diretamente de uma operação em uma empresa de Corretagem de Seguros parceira
 do Bradesco S/A de Curitiba-PR. Ao qual ainda faço parte de sua Sociedade auxiliando em algumas pendências,
-principalmente na parte de Suporte Operacional..
+principalmente na parte de Suporte Operacional.
 
 ---
 
@@ -56,8 +56,7 @@ style = "padding-right: 10px;"
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&theme=tokyonight&custom_title=Tecnologias&layout=compact" 
 align = "left"
 alt = "GitHub Stats"
-height = "200"
-style = "padding-right: 100px;" 
+height = "150"
 />
 
  
