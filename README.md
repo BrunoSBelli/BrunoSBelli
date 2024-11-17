@@ -54,11 +54,12 @@ height = "150"
 style = "padding-right: 10px;" 
 />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&theme=tokyonight&custom_title=Tecnologias&layout=compact" 
-align = "left"
-alt = "GitHub Stats"
-height = "150"
-/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
           
 </p>
 
