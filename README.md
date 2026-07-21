@@ -51,9 +51,9 @@ src="https://github-readme-stats.vercel.app/api?username=brunosbelli&show_icons=
 height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
 
-</p>-->
+</p>
 
----
+-- --->
 
 ## 📌 Projetos em Destaque
 
