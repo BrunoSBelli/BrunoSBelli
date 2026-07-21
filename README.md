@@ -39,9 +39,9 @@ Atualmente busco oportunidades como **Desenvolvedor Back-end** ou **Desenvolvedo
 
 ---
 
-## 📊 Estatísticas
+<!--## 📊 Estatísticas
 
-<p align="center">
+/<p align="center">
 
 <img
 height="170"
@@ -51,7 +51,7 @@ src="https://github-readme-stats.vercel.app/api?username=brunosbelli&show_icons=
 height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
 
-</p>
+</p>-->
 
 ---
 
