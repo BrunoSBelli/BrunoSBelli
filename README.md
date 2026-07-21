@@ -47,19 +47,20 @@ style = "padding-right: 10px;"
 ### 🤖 Estatisticas
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=brunosbelli&show_icons=true&theme=tokyonight&locale=pt-br" 
-align = "left"
-alt = "GitHub Stats"
-height = "150"
-style = "padding-right: 10px;" 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=brunosbelli&show_icons=true&theme=tokyonight&locale=pt-br"
+  align="left"
+  alt="GitHub Stats"
+  height="150"
+  style="padding-right: 10px;"
 />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  align="left"
+  alt="Linguagens Mais Utilizadas"
+  height="150"
+/>
           
 </p>
 
