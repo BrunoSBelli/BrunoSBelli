@@ -10,7 +10,7 @@ Atualmente busco oportunidades como **Desenvolvedor Back-end** ou **Desenvolvedo
 
 ## 🚀 Tecnologias
 
-### Linguagens
+### Linguagens Principais
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
@@ -57,10 +57,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&
 
 ## 📌 Projetos em Destaque
 
-- 📄 Sistema Web para Gerenciamento de Contratos de Máquinas Pesadas
-- 🌐 Sistema Distribuído utilizando Java RMI
-- 📡 Comunicação IoT utilizando Raspberry Pi e LoRa
-- 📑 Sistema de Geração Automática de Propostas e Contratos
+- 📄 Sistema Web para Gerenciamento de Contratos de Máquinas Pesadas e Geração Automática de Propostas e Contratos
 
 ---
 
