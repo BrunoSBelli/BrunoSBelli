@@ -4,7 +4,7 @@
 
 Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas através da tecnologia. Tenho experiência prática no desenvolvimento de aplicações web utilizando PHP, JavaScript, MySQL e Bootstrap, além de projetos envolvendo Java, Python, Raspberry Pi e Internet das Coisas (IoT).
 
-Atualmente busco oportunidades como **Desenvolvedor Back-end** ou **Desenvolvedor Full Stack**, contribuindo com soluções eficientes, organizadas e escaláveis.
+Atualmente busco oportunidades como **Desenvolvedor Back-end**, **Desenvolvedor Front-end** ou **Desenvolvedor Full Stack**, contribuindo com soluções eficientes, organizadas e escaláveis.
 
 ---
 
