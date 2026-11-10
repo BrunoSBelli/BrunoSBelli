@@ -2,10 +2,9 @@
 
 💻 Engenheiro de Computação formado pelo Instituto Federal Catarinense (IFC).
 
-Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas através da tecnologia. Tenho experiência prática no desenvolvimento de aplicações web utilizando PHP, JavaScript, MySQL e Bootstrap, além de projetos envolvendo Java, Python, Raspberry Pi e Internet das Coisas (IoT).
+Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas através da tecnologia. Tenho experiência prática no desenvolvimento de aplicações web utilizando PHP, JavaScript, MySQL e Bootstrap, além de projetos envolvendo Java e Internet das Coisas (IoT).
 
-Atualmente busco oportunidades como **Desenvolvedor Back-end**, **Desenvolvedor Front-end** ou **Desenvolvedor Full Stack**, contribuindo com soluções eficientes, organizadas e escaláveis.
-
+em busca da primeira oportunidade como **desenvolvedor back-end / full stack júnior**. Desenvolvo e mantenho um sistema web em produção (PHP/MySQL) e estudo Java/Spring Boot, microsserviços e Angular.
 ---
 
 ## 🚀 Tecnologias
@@ -16,7 +15,6 @@ Atualmente busco oportunidades como **Desenvolvedor Back-end**, **Desenvolvedor 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 </p>
 
@@ -35,6 +33,7 @@ Atualmente busco oportunidades como **Desenvolvedor Back-end**, **Desenvolvedor 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+
 </p>
 
 ---
@@ -57,7 +56,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&
 
 ## 📌 Projetos em Destaque
 
-- 📄 Sistema Web para Gerenciamento de Contratos de Máquinas Pesadas e Geração Automática de Propostas e Contratos
+- **[Sistema de Locação de Máquinas (TCC)](https://github.com/BrunoSBelli/sistema-locacao-maquinas)**: PHP, MySQL, Puppeteer; em uso por uma empresa real
+- **[Agendador de Tarefas: BFF e microsserviços](https://github.com/BrunoSBelli/bff-agendador-tarefas)**: Java, Spring Boot, OpenFeign, MongoDB, PostgreSQL, Docker
+- **[Gerenciador de Autores e Obras](https://github.com/BrunoSBelli/gerenciamento-autores-obras)**: API REST com Spring Security (JWT) e JPA.
 
 ---
 
