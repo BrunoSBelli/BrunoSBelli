@@ -2,9 +2,7 @@
 
 💻 Engenheiro de Computação formado pelo Instituto Federal Catarinense (IFC).
 
-Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas através da tecnologia. Tenho experiência prática no desenvolvimento de aplicações web utilizando PHP, JavaScript, MySQL e Bootstrap, além de projetos envolvendo Java e Internet das Coisas (IoT).
-
-em busca da primeira oportunidade como **desenvolvedor back-end / full stack júnior**. Desenvolvo e mantenho um sistema web em produção (PHP/MySQL) e estudo Java/Spring Boot, microsserviços e Angular.
+Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas através da tecnologia. Tenho experiência prática no desenvolvimento de aplicações web utilizando PHP, JavaScript, MySQL e Bootstrap, além de projetos envolvendo Java e Internet das Coisas (IoT). Atualmente estou em busca da primeira oportunidade como **desenvolvedor back-end / full stack júnior**. Desenvolvo e mantenho um sistema web em produção (PHP/MySQL) e estudo Java/Spring Boot, microsserviços e Angular.
 ---
 
 ## 🚀 Tecnologias
