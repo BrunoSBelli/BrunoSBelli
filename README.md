@@ -1,66 +1,98 @@
 # 👋 Olá! Eu sou Bruno Souza Belli
 
-💻 Engenheiro de Computação formado pelo Instituto Federal Catarinense (IFC).
+💻 Engenheiro de Computação formado pelo **Instituto Federal Catarinense (IFC)**.
 
-Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas através da tecnologia. Tenho experiência prática no desenvolvimento de aplicações web utilizando PHP, JavaScript, MySQL e Bootstrap, além de projetos envolvendo Java e Internet das Coisas (IoT). Atualmente estou em busca da primeira oportunidade como **desenvolvedor back-end / full stack júnior**. Desenvolvo e mantenho um sistema web em produção (PHP/MySQL) e estudo Java/Spring Boot, microsserviços e Angular.
+Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas através da tecnologia. Desenvolvo e mantenho um **sistema web em produção** (PHP/MySQL) e estudo **Java, Spring Boot e microsserviços**.
+
+🎯 Estou em busca da primeira oportunidade como **desenvolvedor back-end / full stack júnior**.
+
+🌱 **Estudando agora:** Angular e testes unitários (JUnit e Mockito).
+
 ---
 
 ## 🚀 Tecnologias
 
-### Linguagens Principais
+### Back-end
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring Boot" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" height="45"/>
 </p>
 
-### Desenvolvimento Web
+### Bancos de dados
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="45"/>
 </p>
 
-### Ferramentas
+### Front-end
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" height="45"/>
+</p>
 
+### Ferramentas e infraestrutura
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" title="Maven" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" alt="Gradle" title="Gradle" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" height="45"/>
+</p>
+
+### Em aprendizado
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" title="Angular" height="45"/>
 </p>
 
 ---
 
-<!--## 📊 Estatísticas
+## 📌 Projetos em destaque
 
-/<p align="center">
+### ☕ Agendador de Tarefas: BFF e microsserviços
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=brunosbelli&show_icons=true&theme=tokyonight&locale=pt-br"/>
+Sistema de agendamento de tarefas dividido em **microsserviços** em Java e Spring Boot, com um **BFF** que integra tudo via **OpenFeign** e um **Docker Compose** que sobe o conjunto completo.
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosbelli&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
+**Stack:** Java · Spring Boot · OpenFeign · MongoDB · PostgreSQL · Docker
 
-</p>
+| Repositório | O que faz |
+|---|---|
+| 👉 **[bff-agendador-tarefas](https://github.com/BrunoSBelli/bff-agendador-tarefas)** | **Comece por aqui.** BFF, arquitetura e Docker Compose do sistema |
+| [usuario](https://github.com/BrunoSBelli/usuario) | Cadastro e login com JWT (PostgreSQL) |
+| [agendador_de_tarefas](https://github.com/BrunoSBelli/agendador_de_tarefas) | Tarefas por usuário (MongoDB) |
+| [notificacao](https://github.com/BrunoSBelli/notificacao) | Envio de e-mails |
 
--- --->
+### 📄 Sistema de Locação de Máquinas (TCC)
 
-## 📌 Projetos em Destaque
+Sistema web para gestão de clientes, máquinas, propostas e contratos, com emissão automática de PDF. Desenvolvido como TCC, **implantado e em uso por uma empresa real**.
 
-- **[Sistema de Locação de Máquinas (TCC)](https://github.com/BrunoSBelli/sistema-locacao-maquinas)**: PHP, MySQL, Puppeteer; em uso por uma empresa real
-- **[Agendador de Tarefas: BFF e microsserviços](https://github.com/BrunoSBelli/bff-agendador-tarefas)**: Java, Spring Boot, OpenFeign, MongoDB, PostgreSQL, Docker
-- **[Gerenciador de Autores e Obras](https://github.com/BrunoSBelli/gerenciamento-autores-obras)**: API REST com Spring Security (JWT) e JPA.
+**Stack:** PHP · MySQL · JavaScript · Bootstrap · Puppeteer
+
+👉 [sistema-locacao-maquinas](https://github.com/BrunoSBelli/sistema-locacao-maquinas)
+
+### 📚 Gerenciador de Autores e Obras
+
+API REST com CRUD de autores e obras (relacionamento N:N), validações de regras de negócio, tratamento global de erros e autenticação com **Spring Security (JWT)** e **JPA**.
+
+**Stack:** Java 21 · Spring Boot · Spring Security · JPA · PostgreSQL
+
+👉 [gerenciamento-autores-obras](https://github.com/BrunoSBelli/gerenciamento-autores-obras)
 
 ---
 
 ## 📫 Contato
 
-- 📧 **bruno.souzabelli@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/bruno-souza-belli-508337235
+- 📧 [bruno.souzabelli@gmail.com](mailto:bruno.souzabelli@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/bruno-souza-belli-508337235)
