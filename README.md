@@ -65,7 +65,7 @@ Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e resolu
 
 Sistema de agendamento de tarefas dividido em **microsserviços** em Java e Spring Boot, com um **BFF** que integra tudo via **OpenFeign** e um **Docker Compose** que sobe o conjunto completo.
 
-**Stack:** Java · Spring Boot · OpenFeign · MongoDB · PostgreSQL · Docker
+**Stack:** Java · Spring Boot · Spring Security · OpenFeign · MongoDB · PostgreSQL · Docker
 
 | Repositório | O que faz |
 |---|---|
